@@ -1,0 +1,31 @@
+Insect - An insect sized Bionic robotic beetle desined for surveilence and recon  
+insect.png
+
+Ordis - A emotionallly expressive voice model trained on GPT SOVITS 
+ordis.jpg
+
+VTOL - A cost effective VTOL made for disaster management (flood mapping and human detection, payload delivery)
+vtol.png
+
+AFSK GPS Transiever - Attatchemnt for existing radios to tranmit and recieve digital data, in this case GPS
+afsk.png
+
+Tank Detection Algorithm - Tank detection algorithm based on OPenCV
+tank.png
+
+Momentum - A 12DOF desktop sized humanoid robot with features like head tracking, human recognition, conversational capability etc.
+momentum.png
+
+My profile pic - me.jpeg
+
+army certificate 1 cert1.jpeg
+
+army certificate 2 cert2.jpeg
+
+army achievemtn (lieftinet general ceremony) achievement1.jpeg
+
+udemy certificate - udemy.jpg
+
+freecodecamp - webdesign.png
+
+onshape cad - onshape.jpeg

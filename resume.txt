@@ -1,0 +1,94 @@
+Niranj S
+LinkedIn: https://www.linkedin.com/in/niranj-s/
+Github: https://github.com/Niranj-S/
+Email: n i r a n j x 6 4 @ g m a i l . c o m
+Mobile: +91 8921315903
+SKILLS
+Languages:
+Tools/Platforms:
+Soft Skills:
+C++, Python, Embedded C
+Linux, Fusion360, Raspberry Pi, Arduino IDE, OpenCV, MATLAB, Tensorflow, 3D printing,
+Ollama, Creality, Bambu Studio, Ardupilot, Pymavlink, SolidWorks, ROS2, ESP-32, PixHawk
+Communication, Problem-Solving, Presentation, Time Management, Teamwork, Adaptability.
+INTERNSHIP
+Indian Army (XI Corps)
+May 25 – Aug’25
+Technical Intern | Machine Learning, Aerial Robotics
+ Designed, developed, and tested autonomous UAV systems for defense applications, integrating computer
+vision, sensor fusion, and payload capabilities in compliance with stringent military standards.
+ Implemented a secure, self-hosted LLM solution with RAG to assist military personnel with knowledge access
+and task automation.
+ Engineered secure communication protocols on micro-controller platforms for defense applications, ensuring
+reliability, robustness, and data integrity in mission-critical environments
+PROJECTS
+Interactive Humanoid Robot | Python, OpenCV, Arduino IDE
+Apr’ 23 – Present
+ Designed and built a desktop humanoid robot with 12 DOF motion for expressive interaction
+ Integrated a large language model (LLM) to enable natural, conversational dialogue.
+ Implemented speech-to-text (STT) and text-to-speech (TTS) systems for seamless voice-based
+interaction.
+ Equipped the robot with a camera and developed face tracking and gesture recognition using OpenCV.
+VTOL for Disaster Management | Ardupilot, Pymavlink, Pixhawk, OpenCV
+Dec’ 24- Present
+ Developed a VTOL aircraft for flood response, integrating real-time flood mapping and human detection
+algorithms to support disaster management operations.
+ Designed and implemented a Python-based autopilot system using the MAVLink protocol, enhancing
+autonomous aerial navigation and mission reliability.
+ Gained extensive experience in aerial robotics, autonomous systems, and disaster response technologies
+through hands-on development and field testing.
+360° Threat Analyzer | LiDAR, YOLO, Python
+Apr’ 24
+ Collaborated with the Indian Army Corps of Electronics and Mechanical Engineers to develop an AI-
+powered drone detection system for defense applications.
+ Designed a mountable device for armored vehicles, integrating LiDAR and camera systems for 360° threat
+monitoring.
+ Trained and deployed a YOLO-based computer vision model on a dataset of 10,000+ drone images for
+rapid and accurate enemy drone detection on a T-72 main battle tank (MBT).
+Realistic Speech Synthesis Model | GPT-SoVITS, Python, Gradio
+Feb’ 24
+ Developed a neural text-to-speech (TTS) model using GPT-SoVITS, capable of producing natural and
+expressive voices from limited training data.
+ Trained the model on only 22 short audio samples, demonstrating few-shot voice cloning while retaining
+clarity, tone, and emotional nuance (e.g., laughter, emphasis).
+ Optimized for real-time inference with ~1.5 GB VRAM usage, making it suitable for integration with
+LLMs, conversational agents, and personal assistant platforms.
+Self-Correcting Agentic Programmer | Ollama, Mistral, LaVA
+Oct’ 23
+ Designed and implemented an agentic AI framework capable of autonomously generating, executing, and
+refining code to solve programming tasks without direct human intervention.
+ Developed a self-correcting execution pipeline where the system iteratively debugs runtime errors,
+resolves missing dependencies by installing required modules, and re-runs code until a valid solution is
+achieved.
+ Integrated LaVA (Large Vision-Language Model) to interpret and validate graphical outputs, extending
+verification beyond text-based results to ensure correctness in visually driven applications
+ Demonstrated a proof-of-concept for end-to-end automated software development, combining natural
+language understanding, reasoning, and adaptive error correction into a single agentic system.CERTIFICATES
+Technical Collaborator | Indian ArmyAug’ 25
+Parametric CAD | OnshapeApr’ 25
+Electricity and Electronics | UdemyNov’ 24
+Responsive Web Design | FreeCodecampOct’ 23
+ACHIEVEMENTS
+Recognized for Outstanding Technical Contribution by XI Corps Commander
+Jalandhar CantonmentAug’25
+Smart India Hackathon ‘24 FINALIST
+GITAM, VishakapatanamDec’ 24
+Achieved First Runner Up - Tech Marathon : Python Challenge
+Lovely Professional UniversitySep’23
+POSITIONS OF RESPONSIBILITY
+Head of Research and Development
+Renovation Tech Robotics and Aeromodelling
+Jan’ 24 – Present
+EDUCATION
+Lovely Professional University
+Bachelor of Technology
+Robotics and Automation Engineering; CGPA: 7.78
+Phagwara, Punjab
+Aug’ 23 – Present
+Carmel CMI School
+Secondary
+PCM; Percentage: 84%Palakkad, Kerala
+Mar’ 23
+Carmel CMI School
+Higher Secondary
+Percentage: 90.2%P
