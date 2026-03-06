@@ -45,7 +45,7 @@ export function Expertise() {
                 {/* Experience Timeline */}
                 <div className="lg:col-span-7">
                     <h3 className="text-xl font-heading font-bold text-white mb-8 uppercase tracking-widest border-l-2 border-sky-900 pl-4">
-                        Operational History
+                        Experience
                     </h3>
                     <div className="relative border-l border-[#1a1a24] pl-8 space-y-12">
                         {EXPERIENCE.map((exp, idx) => (

@@ -35,6 +35,11 @@ export function Contact() {
                         <Button variant="outline" size="lg" onClick={() => window.open(PERSONAL_INFO.github, "_blank")}>
                             GitHub
                         </Button>
+                        <a href="/media/Niranj.pdf" download>
+                            <Button variant="outline" size="lg">
+                                Download CV
+                            </Button>
+                        </a>
                     </div>
 
                     <div className="w-full h-px bg-[#1a1a24] my-2" />

@@ -132,6 +132,12 @@ export const CERTIFICATES = [
         image: "/media/cert1.jpeg"
     },
     {
+        title: "Certificate of Achievement",
+        issuer: "",
+        date: "",
+        image: "/media/cert2.jpeg"
+    },
+    {
         title: "Parametric CAD",
         issuer: "Onshape",
         date: "Apr 2025",
